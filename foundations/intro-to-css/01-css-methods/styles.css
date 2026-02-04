@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    color:white;
+    background-color: red;
+    text-align: center;
+    font-style: bold;
+    margin: 5px;
+    padding: 5px;
+    font-size: 32px;
+}
