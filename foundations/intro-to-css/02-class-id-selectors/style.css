@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd{
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 169, 182);
+    margin-top: 10px;
+}
+.oddi{
+    font-size: 24px;
+}
+#even1{
+    font-size: 36px;
+    color: blue;
+        margin-top: 10px;
+
+}
+#even2{
+    background-color: rgb(120, 222, 120);
+    color: black;
+        margin-top: 10px;
+
+}
